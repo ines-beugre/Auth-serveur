@@ -1,2 +1,1 @@
-# Auth-serveur
-# Example-Authentication-Server-Side
+Example de serveur avec l'authentification côté serveur
